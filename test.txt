@@ -8,5 +8,9 @@
 	<row>Dong 2</row>
 	<row>Dong 3</row>
 	
+	<row>Dong 4</row>
+	<row>Dong 5</row>
+	<row>Dong 6</row>
+	
   </welcome-file-list>
 </web-app>
