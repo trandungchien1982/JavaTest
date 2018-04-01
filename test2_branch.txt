@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>EJB1</display-name>
+  <welcome-file-list>    
+    
+	<branch2>Test 2 - line 1</branch2>
+	<branch2>Test 2 - line 2</branch2>
+	<branch2>Test 2 - line 3</branch2>
+	<branch2>Test 2 - line 4</branch2>
+	<branch2>Test 2 - line 5</branch2>
+	<branch2>Test 2 - line 6</branch2>
+	
+	<branch2>Test 2 - line 20</branch2>
+	<branch2>Test 2 - line 21</branch2>
+	<branch2>Test 2 - line 22</branch2>
+	<branch2>Test 2 - line 23</branch2>
+	<branch2>Test 2 - line 24</branch2>
+	<branch2>Test 2 - line 25</branch2>
+	
+	<branch2>Test 2 - line 26</branch2>
+	<branch2>Test 2 - line 27</branch2>
+	
+  </welcome-file-list>
+</web-app>
