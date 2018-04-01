@@ -29,6 +29,8 @@
 	
 	<row>Dong 18</row>
 	<row>Dong 19</row>
+	<row>Dong 20</row>
+	<row>Dong 21</row>
 	
   </welcome-file-list>
 </web-app>
