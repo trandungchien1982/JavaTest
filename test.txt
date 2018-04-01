@@ -12,5 +12,12 @@
 	<row>Dong 5</row>
 	<row>Dong 6</row>
 	
+	<row>Dong 7</row>
+	<row>Dong 8</row>
+	<row>Dong 9</row>
+	
+	<row>Dong 10</row>
+	<row>Dong 11</row>
+	
   </welcome-file-list>
 </web-app>
