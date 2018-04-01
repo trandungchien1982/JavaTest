@@ -42,7 +42,7 @@
 	<branch_III>Value 04</branch_III>
 	<branch_III>Value 05</branch_III>
 	<branch_III>Value 06</branch_III>
-	
+	<branch_III>Value 07</branch_III>
 	
 	
   </welcome-file-list>
