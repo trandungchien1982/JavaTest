@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_121">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+			<attribute name="owner.project.facets" value="java2"/>
+			<attribute name="owner.project.facets" value="java3"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.glassfish.lib.system">
+	<classpathentry kind="con" path="oracle.eclipse.tools.glassfish.lib.system1">
+	<test>vang xa nguoi</test>
+	<test>trang vang</test>
+	<test>ben ben vang</test>
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="build/classes"/>
+	<classpathentry kind="output" path="build/classes1"/>
+	<classpathentry kind="output" path="build/classes2"/>
+	<classpathentry kind="output" path="build/classes3"/>
+	<classpathentry kind="output" path="build/classes4"/>
+</classpath>
+
+<a>test</a>
+<br>ngoai ra</br>
+<br>ngoai ra 1</br>
+<br>ngoai ra 2</br>
