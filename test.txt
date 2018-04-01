@@ -40,6 +40,8 @@
 	<branch2>Line 6 of branch 2</branch2>
 	<branch2>Line 7 of branch 2</branch2>
 	<branch2>Line 8 of branch 2</branch2>
+	<branch2>Line 9 of branch 2</branch2>
+	<branch2>Line 10 of branch 2</branch2>
 	
   </welcome-file-list>
 </web-app>
