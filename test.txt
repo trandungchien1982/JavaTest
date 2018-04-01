@@ -45,6 +45,8 @@
 	<branch2>Line 21 of branch 2</branch2>
 	<branch2>Line 22 of branch 2</branch2>
 	<branch2>Line 23 of branch 2</branch2>
+	<branch2>Line 24 of branch 2</branch2>
+	<branch2>Line 25 of branch 2</branch2>
 	
   </welcome-file-list>
 </web-app>
