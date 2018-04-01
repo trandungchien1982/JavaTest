@@ -36,6 +36,9 @@
 	<branch2>Line 2 of branch 2</branch2>
 	<branch2>Line 3 of branch 2</branch2>
 	<branch2>Line 4 of branch 2</branch2>
+	<branch2>Line 5 of branch 2</branch2>
+	<branch2>Line 6 of branch 2</branch2>
+	<branch2>Line 7 of branch 2</branch2>
 	
   </welcome-file-list>
 </web-app>
