@@ -32,5 +32,8 @@
 	<row>Dong 20</row>
 	<row>Dong 21</row>
 	
+	<branch2>Line 1 of branch 2</branch2>
+	<branch2>Line 2 of branch 2</branch2>
+	
   </welcome-file-list>
 </web-app>
