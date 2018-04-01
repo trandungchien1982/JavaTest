@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>EJB1</display-name>
+  <welcome-file-list>    
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+	
+	Value 00 - branch 3
+	
+	<row>Dong 1</row>
+	<row>Dong 2</row>
+	<row>Dong 3</row>
+	
+	<row>Dong 4</row>
+	<row>Dong 5</row>
+	<row>Dong 6</row>
+	
+	<row>Dong 7</row>
+	<row>Dong 8</row>
+	<row>Dong 9</row>
+	
+	<row>Dong 10</row>
+	<row>Dong 11</row>
+	
+	<row>Dong 12</row>
+	<row>Dong 13</row>
+	<row>Dong 14</row>
+	
+	<row>Dong 15</row>
+	<row>Dong 16</row>
+	<row>Dong 17</row>
+	
+	<row>Dong 18</row>
+	<row>Dong 19</row>
+	<row>Dong 20</row>
+	<row>Dong 21</row>
+	
+	<row>Dong 22 master</row>
+	<row>Dong 23 master</row>
+	<row>Dong 24 master</row>
+	<row>Dong 25 master</row>
+	<row>Dong 26 master</row>
+	<row>Dong 27 master</row>
+	
+	<branch_III>Value 01</branch_III>
+	<branch_III>Value 02</branch_III>
+	<branch_III>Value 03</branch_III>
+	<branch_III>Value 04</branch_III>
+	<branch_III>Value 05</branch_III>
+	<branch_III>Value 06</branch_III>
+	<branch_III>Value 07</branch_III>
+	
+	<branch_III>Value 08</branch_III>
+	<branch_III>Value 09</branch_III>
+	<branch_III>Value 10</branch_III>
+	<branch_III>Value 11</branch_III>
+	
+	<branch_III>Value 15</branch_III>
+	<branch_III>Value 16</branch_III>
+	
+	<branch_III>Value 17</branch_III>
+	<branch_III>Value 18</branch_III>
+	
+
+	<branch2>Line 1 of branch 2</branch2>
+	<branch2>Line 2 of branch 2</branch2>
+	<branch2>Line 3 of branch 2</branch2>
+	<branch2>Line 4 of branch 2</branch2>
+	<branch2>Line 5 of branch 2</branch2>
+	<branch2>Line 6 of branch 2</branch2>
+	<branch2>Line 7 of branch 2</branch2>
+	<branch2>Line 8 of branch 2</branch2>
+	
+	<branch2>Line 20 of branch 2</branch2>
+	<branch2>Line 21 of branch 2</branch2>
+	<branch2>Line 22 of branch 2</branch2>
+	<branch2>Line 23 of branch 2</branch2>
+	<branch2>Line 24 of branch 2</branch2>
+	<branch2>Line 25 of branch 2</branch2>
+	
+	<branch2>Line 26 of branch 2</branch2>
+	<branch2>Line 27 of branch 2</branch2>
+	
+  </welcome-file-list>
+</web-app>
