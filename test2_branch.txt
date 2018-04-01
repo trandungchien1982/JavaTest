@@ -17,5 +17,8 @@
 	<branch2>Test 2 - line 24</branch2>
 	<branch2>Test 2 - line 25</branch2>
 	
+	<branch2>Test 2 - line 26</branch2>
+	<branch2>Test 2 - line 27</branch2>
+	
   </welcome-file-list>
 </web-app>
